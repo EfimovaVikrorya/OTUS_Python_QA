@@ -1,2 +1,3 @@
 # OTUS_Python_QA
-homeworks
+# homeworks
+# обучение автоматизационному тестированию
