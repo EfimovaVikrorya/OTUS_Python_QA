@@ -31,7 +31,7 @@ def test_add_area_square_by_triangle():
 def test_add_area_square_by_rectangle():
     rectangle = Rectangle(5, 10)
     square = Square(10)
-    assert rectangle.add_area(square) == 150, "Add area square by trectangle"
+    assert rectangle.add_area(square) == 150, "Add area square by rectangle"
 
 
 
